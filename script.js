@@ -28,6 +28,3 @@ function iniciaJogo() {
         alert(`Você perdeu. O número correto era ${numeroAleatorio}.`);
     }
 }
-//DESAFIOS: TIRAR O NUMERO 0 COMO OPÇÃO
-
-//FUTURAMENTE, COLOCAR UM TEXTAREA AO INVÉS DE UTILIZAR ALERT/PROMPT
