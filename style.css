@@ -1,0 +1,83 @@
+/*BACKGROUND-IMAGE FROM ©Shaunak Mirashi*/
+
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1494995536846-47ab0fc5df1c?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    font-size: 1rem;
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 60px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .alura-logo:hover {
+    opacity: 0.7;
+  }
+
+  .brain-button {
+    opacity: 0.5;
+    cursor: pointer;
+  }
+  
+  .brain-button:hover {
+    opacity: initial;
+  }
+
+  .warning-button {
+    font-family: "Roboto Mono", monospace;
+    font-size: large;
+    color: #fff;
+    opacity: 0.5;
+  }
+
+  .copyright {
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+    font-size: large;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .copyright:hover {
+    opacity: 0.7;
+  }
+
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 350px;
+  }
+  
